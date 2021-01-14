@@ -13,8 +13,50 @@
 .button-style{
     width: 170px;
     height: 60px;
+    border-radius: 10px;
 }
 .button-style img{
     width: 20px;
     height: 20px;
+}
+.cart-image-style{
+    margin-right: 10px;
+}
+#model-image{
+    width: 440px; 
+    height: 648px;
+    margin-top: -62%;
+    margin-left: 70px;
+}
+.first-section{
+    width: 40%;
+    float: left;
+    margin-top: 101px;
+    width: 400px;
+}
+.card-image {
+    
+    border-radius: 20px;
+    padding: 3px;
+}
+.jacket-card-footer{
+    background-color: white;
+    border: 0;
+}
+.card-size{
+    width: 370px !important;
+    height: 550px !important;
+}
+.card-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.jacket-image1{
+    background: #F1F1F1;
+    margin: 18px;
+    width: 334px;
+    height: 327px;
+    border-radius: 10px;
 }
