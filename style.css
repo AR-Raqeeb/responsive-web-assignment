@@ -24,6 +24,12 @@ body{
     font-size: 80px;
     color: rgb(8, 8, 70);
 }
+#model{
+    width: 440px;
+    height: 468px;
+    margin-top: -120px;
+    margin-left: 30px;
+}
 #para-font-style{
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
